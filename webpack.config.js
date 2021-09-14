@@ -5,5 +5,10 @@ module.exports = {
         alias: {
             '@': path.resolve('resources/js'),
         },
+        
     },
+    stats: {        
+        children: true, 
+        all: undefined,       
+    }
 };
