@@ -10307,3 +10307,9 @@ h3 {
 .small {
   font-size: 0.875rem !important;
 }
+
+/* ---- GECNDev ---- */
+#gecndev .home li {
+  list-style: none;
+  padding-top: 10px;
+}
