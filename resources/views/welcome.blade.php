@@ -58,8 +58,8 @@
                                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="text-muted" width="32"><path d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
                                     </div>
                                     <div class="pl-3">
-                                        <div class="mb-2">
-                                            <a href="https://laravel.com/docs" class="h5 font-weight-bolder text-dark">More Information</a>
+                                        <div class="mb-2">                                            
+                                            <span class="h5 font-weight-bolder text-dark">More Information</span>
                                         </div>
                                         <p class="text-muted small">
                                             <ul>  
@@ -68,9 +68,11 @@
                                                  <img src="https://img.shields.io/badge/google-0077B5?style=for-the-badge&logo=Google&logoColor=white&labelColor=101010" alt="">
                                                 </a>    
                                                 </li>
-                                                <li><a href="https://gcalvetty.wordpress.com/" class="text-muted">
-                                                <img src="https://img.shields.io/badge/Blogger-0077B5?style=for-the-badge&logo=blogger&logoColor=white&labelColor=101010" alt="">
-                                            </a></li>
+                                                <li>
+                                                    <a href="https://gcalvetty.wordpress.com/" target="_blank" c lass="text-muted">
+                                                        <img src="https://img.shields.io/badge/Blogger-0077B5?style=for-the-badge&logo=blogger&logoColor=white&labelColor=101010" target="_blank" alt="Wordpress">
+                                                    </a>
+                                                </li>
 
                                             </ul>
                                         </p>
@@ -85,14 +87,16 @@
                                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="text-muted" width="32"><path d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"></path><path d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                                     </div>
                                     <div class="pl-3">
-                                        <div class="mb-2">
-                                            <a href="https://laracasts.com" class="h5 font-weight-bolder text-dark">Portafolio</a>
+                                        <div class="mb-2">                                            
+                                            <span class="h5 font-weight-bolder text-dark">Portafolio</span>
                                         </div>
                                         <p class="text-muted small">
                                             <ul>
-                                                <li><a href="https://www.linkedin.com/in/gcalvetty/" class="text-muted">
-                                                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="">
-                                                </a></li>
+                                                <li>
+                                                    <a href="https://www.linkedin.com/in/gcalvetty/" target="_blank" class="text-muted">
+                                                        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="">
+                                                    </a>
+                                                </li>
                                                 <li>
                                                     <a href="https://www.upwork.com/o/profiles/users/~011a5486cbe6c73429/" target="_blank" rel="noopener noreferrer" class="text-muted">
                                                     <img src="https://img.shields.io/badge/upwork-0077B5?style=for-the-badge&logo=upwork&logoColor=white&labelColor=101010" alt="">
@@ -112,22 +116,30 @@
                                         <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="text-muted" width="32"><path d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"></path></svg>
                                     </div>
                                     <div class="pl-3 flex-grow " style="flex-grow: 1;">
-                                        <div class="mb-2">
-                                            <a href="https://laravel-news.com/" class="h5 font-weight-bolder text-dark">Networks</a>
+                                        <div class="mb-2">                                            
+                                            <span class="h5 font-weight-bolder text-dark">Networks</span>
                                         </div>
                                         <p class="text-muted small">
                                             <ul>
-                                                <li><a href="https://github.com/gcalvetty" class="text-muted">
-                                                <img src="https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="">
-                                            </a></li>
                                                 <li>
-                                                    <a href="https://www.facebook.com/GecnDev" class="text-muted">
-                                                <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" alt="">
-                                            </a>
-                                            </li>
+                                                    <a href="https://github.com/gcalvetty" target="_blank" class="text-muted">
+                                                        <img src="https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="">
+                                                    </a>
+                                                </li>
                                                 <li>
-                                                <a href="https://twitter.com/gcalvetty" class="text-muted">
-                                                <img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" alt="">                                       </a>             
+                                                    <a href="https://www.facebook.com/GecnDev" target="_blank" class="text-muted">
+                                                        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010" alt="">
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://twitter.com/gcalvetty" target="_blank" class="text-muted">
+                                                        <img src="https://img.shields.io/badge/twitter-1877F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" alt="">
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://wa.link/dootmm" target="_blank" class="text-muted">
+                                                        <img src="https://img.shields.io/badge/whatsapp-1877F2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010" alt="">
+                                                    </a>
                                                 </li>
                                             </ul>
                                         </p>
@@ -157,16 +169,12 @@
 
                 <div class="d-flex justify-content-between mt-3">
                     <div class="text-sm text-muted">
-                        <div class="flex align-content-center">
+                        <div class="flex align-content-center">                            
                             <img src="https://img.shields.io/github/followers/gcalvetty?style=social" alt="">
 
                             <img src="https://img.shields.io/twitter/follow/gcalvetty?style=social" alt="">
 
                             <img src="https://img.shields.io/twitch/status/gcalvetty?style=social" alt="">
-
-
-
-
                         </div>
                     </div>
 
