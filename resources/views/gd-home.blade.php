@@ -7,8 +7,13 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
     @livewireStyles
 </head>
-<body>
-    Hola mundo como estas!!!
+<body>    
+    @livewire('gecn-menu')
+     
+    @livewire('gecn-paghome',['nombre' => 'GECNDev-2022'])
+    
+    @livewire('gecn-pie')
+
     @livewireScripts
 </body>
 </html>
