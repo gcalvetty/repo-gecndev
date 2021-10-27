@@ -152,6 +152,29 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-6 pl-0">
+                            <div class="card-body p-3 h-100">
+                                <div class="d-flex flex-row bd-highlight pt-2">
+                                    <div>
+                                        <div>
+                                            <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="text-muted" width="32"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                                        </div>
+                                    </div>
+                                    <div class="pl-3">
+                                        <div class="mb-2">
+                                            <span class="h5 font-weight-bolder text-dark">¿Looking WORK?</span>
+                                        </div>
+                                        <p class="text-muted small">
+                                            <a href="https://lapieza.io/registro?promo_code=GNgc-56842">
+                                                <img src="img/apoyos/Lapieza.png" alt="">
+                                            </a>                                                          
+                                        </p>                                        
+                                    </div>   
+                                    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                              
                     </div>
                 </div>
 
@@ -174,6 +197,8 @@
                         Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
                 </div>
+
+                
             </div>
         </div>
     </div>
